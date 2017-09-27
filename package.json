@@ -1,0 +1,27 @@
+{
+  "name": "ghost-image-viewer",
+  "version": "0.0.9",
+  "description": "Makes all imaages on post page zoomable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hoyt-tian/ghost-image-viewer.git"
+  },
+  "keywords": [
+    "ghost",
+    "image"
+  ],
+  "author": "hoyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoyt-tian/ghost-image-viewer/issues"
+  },
+  "homepage": "https://github.com/hoyt-tian/ghost-image-viewer#readme",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^0.4.6",
+    "webpack": "^3.6.0"
+  }
+}
